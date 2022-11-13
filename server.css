@@ -1,0 +1,47 @@
+
+body {
+background-color: lightblue;
+font-style: normal;
+}
+
+header {
+
+    background-color: aqua;
+ 
+}
+
+footer {
+
+
+    background-color: aqua;
+}
+
+p {
+
+    background-color: white;
+
+}
+
+title {
+
+    font-size: large;
+}
+
+div{
+    
+    font-style: italic;
+}
+
+.div1 {
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+    box-sizing: border-box;
+  }
+
+  .div2 {
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+    box-sizing: border-box;
+  }
